@@ -1,4 +1,4 @@
-baseURL = 'https://blazingwarlord.github.io'
+baseURL = 'https://blazingwarlord.github.io/portfolio-page/'
 languageCode = 'en-us'
 title = 'Anirudh Ramesh - The Portfolio'
 theme = 'hugo-xterm-main'
