@@ -1,7 +1,7 @@
 +++
 title = 'Will You Be My Friend ?'
 date = 2024-06-22T22:47:13+05:30
-draft = true
+draft = false
 description = "A Game built in 7 days"
 +++
 

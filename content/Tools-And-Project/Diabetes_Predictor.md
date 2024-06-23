@@ -1,7 +1,7 @@
 +++
 title = 'Diabetes_Predictor'
 date = 2024-06-22T23:02:06+05:30
-draft = true
+draft = false
 description = "A Tool to Predict Chances of Diabetes"
 +++
 

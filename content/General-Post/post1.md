@@ -1,7 +1,7 @@
 +++
 title = 'Post1'
 date = 2024-06-22T13:56:08+05:30
-draft = true
+draft = false
 +++
 
 ### What can you see in my portfolio.
