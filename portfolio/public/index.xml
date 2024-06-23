@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anirudh Ramesh on Anirudh Ramesh - The Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Anirudh Ramesh on Anirudh Ramesh - The Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diabetes_Predictor</title>
+      <link>http://localhost:1313/tools-and-project/diabetes_predictor/</link>
+      <pubDate>Sat, 22 Jun 2024 23:02:06 +0530</pubDate>
+
+      <guid>http://localhost:1313/tools-and-project/diabetes_predictor/</guid>
+      <description>Diabetes Predictor This Diabetes Predictor Application was built in Python using Scikit-Learn and Streamlit. It allows the user to enter their data and vitals, and uses multiple algorithms to provide a prediction based on previous data.</description>
+      <content>
+&lt;h3 id=&#34;diabetes-predictor&#34;&gt;
+  Diabetes Predictor
+  &lt;a href=&#34;#diabetes-predictor&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This Diabetes Predictor Application was built in Python using Scikit-Learn and Streamlit. It allows the user to enter their data and vitals, and uses multiple algorithms to provide a prediction based on previous data.&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://diabetes-predictor-ml.streamlit.app/?embedded=true&#34;
+  style=&#34;height: 1000px; width: 100%;&#34;
+&gt;&lt;/iframe&gt;</content>
+    </item>
+    <item>
+      <title>Will You Be My Friend ?</title>
+      <link>http://localhost:1313/tools-and-project/will_you_be_my_friend/</link>
+      <pubDate>Sat, 22 Jun 2024 22:47:13 +0530</pubDate>
+
+      <guid>http://localhost:1313/tools-and-project/will_you_be_my_friend/</guid>
+      <description> Will You Be My Friend ? Will You Be My Friend is my entry to Brackeys&amp;rsquo; Game Jam, a worldwide game creation event. The target of the Game Jam is to create a game from scratch in 7 days. This game was built using Unity3D and C#. Play it here:
+Play Will You Be My Friend ? on itch.io </description>
+      <content>
+&lt;h3 id=&#34;will-you-be-my-friend-&#34;&gt;
+  Will You Be My Friend ?
+  &lt;a href=&#34;#will-you-be-my-friend-&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Will You Be My Friend is my entry to Brackeys&amp;rsquo; Game Jam, a worldwide game creation event. The target of the Game Jam is to create a game from scratch in 7 days. This game was built using Unity3D and C#. Play it here:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/6406363?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;960&#34; height=&#34;620&#34;&gt;&lt;a href=&#34;https://blazingwarlord.itch.io/will-you-be-my-friend&#34;&gt;Play Will You Be My Friend ? on itch.io&lt;/a&gt;&lt;/iframe&gt;
+</content>
+    </item>
+    <item>
+      <title>Post1</title>
+      <link>http://localhost:1313/general-post/post1/</link>
+      <pubDate>Sat, 22 Jun 2024 13:56:08 +0530</pubDate>
+
+      <guid>http://localhost:1313/general-post/post1/</guid>
+      <description>What can you see in my portfolio. Hey there! Welcome to my portfolio page. The aim of the webpage is to show you who I am, both the professional side and the personal side. You could also check out some of my projects, and you may stumble upon some interesting items I would like to share. Do stay around!</description>
+      <content>
+&lt;h3 id=&#34;what-can-you-see-in-my-portfolio&#34;&gt;
+  What can you see in my portfolio.
+  &lt;a href=&#34;#what-can-you-see-in-my-portfolio&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Hey there! Welcome to my portfolio page. The aim of the webpage is to show you who I am, both the professional side and the personal side.
+You could also check out some of my projects, and you may stumble upon some interesting items I would like to share. Do stay around!&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Fri, 21 Jun 2024 18:19:43 +0530</pubDate>
+
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>About Me Hello There ! I am Anirudh Ramesh. If you are here to see my professional achievements, that&amp;rsquo;s the CV page, I&amp;rsquo;m afraid. This page is about everything else.
+I am a&amp;hellip; Computer Enthusiast: I am passionate about everything computers, especially coding. I like to explore domains, and I have built video-games, machine-learning predictors, and even a Hot-Crazy Scale simulator webpage (HIMYM fans assemble). Check out my GitHub for a select few of them.</description>
+      <content>
+&lt;h1 id=&#34;about-me&#34;&gt;
+  About Me
+  &lt;a href=&#34;#about-me&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+&lt;h2 id=&#34;hello-there-&#34;&gt;
+  Hello There !
+  &lt;a href=&#34;#hello-there-&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I am Anirudh Ramesh. If you are here to see my professional achievements, that&amp;rsquo;s the CV page, I&amp;rsquo;m afraid.
+This page is about everything else.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-am-a&#34;&gt;
+  I am a&amp;hellip;
+  &lt;a href=&#34;#i-am-a&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;h3 id=&#34;computer-enthusiast&#34;&gt;
+  Computer Enthusiast:
+  &lt;a href=&#34;#computer-enthusiast&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I am passionate about everything computers, especially coding. I like to explore domains, and I have built video-games, machine-learning predictors, and even a Hot-Crazy Scale simulator webpage (HIMYM fans assemble). Check out my GitHub for a select few of them. Python is my language of preference, though I have spent my fair share of time with C, C++, C# (the Unity-related coding) and Java. Also, check out my Python book and Python blog when you get the chance.&lt;/p&gt;
+
+&lt;h3 id=&#34;cricket-enthusiast&#34;&gt;
+  Cricket Enthusiast:
+  &lt;a href=&#34;#cricket-enthusiast&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;When I say enthusiast, I mean watch every game, read Twitter/X analyses, watch every highlight reel, and play when I can. Team I support is India, CSK, RCB-W, Sydney Sixers, and generally, the underdogs. Start a conversation about cricket, and I am always ready for a chat.
+Favourite Shot: Nothing like a classical cover drive
+Favourite Players: Virat Kohli and Ellyse Perry&lt;/p&gt;
+
+&lt;h3 id=&#34;legos-guy&#34;&gt;
+  LEGOs Guy:
+  &lt;a href=&#34;#legos-guy&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Give me a box of LEGOs and you won&amp;rsquo;t find me for hours. I am always looking to increase my minifigure collection, currently strong at almost 80. The UCS Millennium Falcon is the ultimate dream.&lt;/p&gt;
+
+&lt;h3 id=&#34;movies-and-tv-shows-man&#34;&gt;
+  Movies and TV Shows Man:
+  &lt;a href=&#34;#movies-and-tv-shows-man&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I am a big fan of sitcoms, but my loyalty always lies with F.R.I.E.N.D.S. However, I am also a big fan of The Big Bang Theory, Modern Family, Brooklyn 99, and How I Met Your Mother. I don&amp;rsquo;t mind an occasional drama show as well, and I have had my stints with Suits, Sherlock, The Queen&amp;rsquo;s Gambit and so on.
+I have always been a big fan of movies. Hollywood movies are my preference, and I really like Action and Romcoms, but if you are watching a horror or a thriller movie, count me out.&lt;/p&gt;
+
+&lt;h3 id=&#34;geek&#34;&gt;
+  Geek:
+  &lt;a href=&#34;#geek&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Marvel, DC, Star Wars, Transformers, Ben 10, and a load of other things occupy a significant chunk of my brain-space. There may be plans to one day built an Iron Man suit of armor but we can keep that to ourselves now.&lt;/p&gt;
+&lt;p&gt;Favorite Marvel hero: A lot of choices here
+Favourite DC hero: Batman holds a significant lead here.
+Favourite Star Wars character: Darth Vader
+Favourite Ben 10 alien: Diamondhead, the nostalgia does play a significant role here.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s about me.&lt;/p&gt;
+</content>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>http://localhost:1313/cv/</guid>
+      <description>As an individual with a deep passion for technology and programming, I am pursuing a Bachelor&amp;rsquo;s in Electronics and Communications at BITS Pilani, Hyderabad Campus. I always seek to learn the fundamentals of various topics and enjoy taking on challenges, as demonstrated by my active participation in related competitions and clubs. My hands-on experience includes internships at Samsung Electronics and UST Global, where I worked on cutting-edge projects, as well as research roles as an Undergraduate Researcher at BITS Pilani.</description>
+      <content>&lt;p&gt;As an individual with a deep passion for technology and programming, I am pursuing a Bachelor&amp;rsquo;s in Electronics and Communications at BITS Pilani, Hyderabad Campus. I always seek to learn the fundamentals of various topics and enjoy taking on challenges, as demonstrated by my active participation in related competitions and clubs. My hands-on experience includes internships at Samsung Electronics and UST Global, where I worked on cutting-edge projects, as well as research roles as an Undergraduate Researcher at BITS Pilani. These experiences have honed my technical skills and reinforced my commitment to continuous learning and innovation in the field.&lt;/p&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;
+  Experience
+  &lt;a href=&#34;#experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Samsung Electronics&lt;/span&gt;
+    &lt;span&gt;June 2024 – Present&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Summer Intern&lt;/span&gt;
+    &lt;span&gt;Bangalore, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Working with a team on Network-based projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: Python&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;UST Global&lt;/span&gt;
+    &lt;span&gt;Jun 2023 – Jul 2023&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Summer Intern&lt;/span&gt;
+    &lt;span&gt;Chennai, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I was part of a team working on an application to automate migration to a cloud service provider, especially Azure. We also worked on an application that remotely analyses the server and suggests equivalent services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: Python, Microsoft Azure&lt;/p&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;BITS Pilani, Hyderabad Campus&lt;/span&gt;
+    &lt;span&gt;Jan 2024 – May 2024&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Teaching Assistant&lt;/span&gt;
+    &lt;span&gt;Hyderabad, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I was the Teaching Assistant for the course EEE F246 - Electrical and Electronics Circuits Laboratory. I was tasked with developing experiments, simulations, and visualizations based on Digital Signal Processing Algorithms and updating outdated code with revised code using MATLAB and Python.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Technologies: Python, MATLAB, Numpy, Scipy, Matplotlib&lt;/p&gt;
+
+&lt;h2 id=&#34;research-experience&#34;&gt;
+  Research Experience
+  &lt;a href=&#34;#research-experience&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;BITS Pilani, Hyderabad Campus&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Undergraduate Researcher&lt;/span&gt;
+    &lt;span&gt;Hyderabad, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I played a pivotal role in developing a Deep-Learning Course-Recommendation Application, aimed at supporting students and academic advisors in elective selection, GPA prediction, and academic path-building.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;
+  Education
+  &lt;a href=&#34;#education&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Birla Institute of Technology and Science Pilani, Hyderabad Campus&lt;/span&gt;
+    &lt;span&gt;2021 - 2025&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;B.E Electronics and Communication Engineering, Minor in Computing and Intelligence&lt;/span&gt;
+    &lt;span&gt;Hyderabad, India&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;technical-skills&#34;&gt;
+  Technical Skills
+  &lt;a href=&#34;#technical-skills&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Languages: Python, SQL, C, C++, Java&lt;/p&gt;
+&lt;p&gt;Tools: Unity3D C#, MATLAB&lt;/p&gt;
+&lt;p&gt;Subjects: Foundations of Data-Structures and Algorithms, Machine Learning, Artificial Intelligence, Object-Oriented Programming, Database Management Systems, Operating Systems, Digital Signal Processing, Information Retrieval&lt;/p&gt;
+
+&lt;h2 id=&#34;achievements&#34;&gt;
+  Achievements
+  &lt;a href=&#34;#achievements&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;&amp;#39;What? to What! - Your Pathway to Python Proficiency&amp;#39;&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Authored a book aimed at providing a practical and interesting experience for readers learning Python. Self-published for Kindle and Hardcover with Kindle Digital Publishing, Paperback with Notionpress&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;ACM BPHC - Machine Learning Hackathon&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Tasked with developing a Machine Learning Model to predict stock-prices based on News Headlines. Placed 3rd&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;ThePygrammer&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Reached 23K&amp;#43; views on my blog, aimed at sharing projects and tutorials aimed at beginners and intermediate programmers&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Brackeys&amp;#39; Game Jam&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Built a game from scratch in 7 days and submitted to the Brackeys&amp;#39; Game Jam, a worldwide game exhibition. Currently hosted on itch.io&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;extracurriculars&#34;&gt;
+  Extracurriculars
+  &lt;a href=&#34;#extracurriculars&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of CruX - The Programming and Computing Club, and IEEE Student Branch, BITS Pilani Hyderabad Campus&lt;/li&gt;
+&lt;li&gt;Presenter at Club Workshops. Also built a mobile AR wave simulation application for a club workshop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;certifications&#34;&gt;
+  Certifications
+  &lt;a href=&#34;#certifications&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;R For Data Science&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Cognitive Class&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Data Analysis with Python&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Cognitive Class&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;cv-experience&#34;&gt;
+  &lt;div class=&#34;row lead&#34;&gt;
+    &lt;span&gt;Python 101 for Data Science&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;row sub&#34;&gt;
+    &lt;span&gt;Cognitive Class&lt;/span&gt;
+    &lt;span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+    </item>
+  </channel>
+</rss>

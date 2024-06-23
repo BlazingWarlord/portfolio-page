@@ -1,0 +1,6 @@
+baseURL = 'https://blazingwarlord.github.io'
+languageCode = 'en-us'
+title = 'Anirudh Ramesh - The Portfolio'
+theme = 'hugo-xterm-main'
+[markup.goldmark.renderer]
+ unsafe = true

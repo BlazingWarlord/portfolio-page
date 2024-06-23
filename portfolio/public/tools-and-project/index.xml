@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools-and-Projects on Anirudh Ramesh - The Portfolio</title>
+    <link>http://localhost:1313/tools-and-project/</link>
+    <description>Recent content in Tools-and-Projects on Anirudh Ramesh - The Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+      <language>en-us</language>
+      <lastBuildDate>Sat, 22 Jun 2024 23:02:06 +0530</lastBuildDate><atom:link href="http://localhost:1313/tools-and-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diabetes_Predictor</title>
+      <link>http://localhost:1313/tools-and-project/diabetes_predictor/</link>
+      <pubDate>Sat, 22 Jun 2024 23:02:06 +0530</pubDate>
+
+      <guid>http://localhost:1313/tools-and-project/diabetes_predictor/</guid>
+      <description>Diabetes Predictor This Diabetes Predictor Application was built in Python using Scikit-Learn and Streamlit. It allows the user to enter their data and vitals, and uses multiple algorithms to provide a prediction based on previous data.</description>
+      <content>
+&lt;h3 id=&#34;diabetes-predictor&#34;&gt;
+  Diabetes Predictor
+  &lt;a href=&#34;#diabetes-predictor&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This Diabetes Predictor Application was built in Python using Scikit-Learn and Streamlit. It allows the user to enter their data and vitals, and uses multiple algorithms to provide a prediction based on previous data.&lt;/p&gt;
+&lt;iframe
+  src=&#34;https://diabetes-predictor-ml.streamlit.app/?embedded=true&#34;
+  style=&#34;height: 1000px; width: 100%;&#34;
+&gt;&lt;/iframe&gt;</content>
+    </item>
+    <item>
+      <title>Will You Be My Friend ?</title>
+      <link>http://localhost:1313/tools-and-project/will_you_be_my_friend/</link>
+      <pubDate>Sat, 22 Jun 2024 22:47:13 +0530</pubDate>
+
+      <guid>http://localhost:1313/tools-and-project/will_you_be_my_friend/</guid>
+      <description> Will You Be My Friend ? Will You Be My Friend is my entry to Brackeys&amp;rsquo; Game Jam, a worldwide game creation event. The target of the Game Jam is to create a game from scratch in 7 days. This game was built using Unity3D and C#. Play it here:
+Play Will You Be My Friend ? on itch.io </description>
+      <content>
+&lt;h3 id=&#34;will-you-be-my-friend-&#34;&gt;
+  Will You Be My Friend ?
+  &lt;a href=&#34;#will-you-be-my-friend-&#34; class=&#34;hanchor&#34; ariaLabel=&#34;Anchor&#34;&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Will You Be My Friend is my entry to Brackeys&amp;rsquo; Game Jam, a worldwide game creation event. The target of the Game Jam is to create a game from scratch in 7 days. This game was built using Unity3D and C#. Play it here:&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; src=&#34;https://itch.io/embed-upload/6406363?color=333333&#34; allowfullscreen=&#34;&#34; width=&#34;960&#34; height=&#34;620&#34;&gt;&lt;a href=&#34;https://blazingwarlord.itch.io/will-you-be-my-friend&#34;&gt;Play Will You Be My Friend ? on itch.io&lt;/a&gt;&lt;/iframe&gt;
+</content>
+    </item>
+  </channel>
+</rss>
