@@ -15,7 +15,7 @@ Experience
 ----------
 
 {{< cv/experience
-    name="Samsung Electronics"
+    name="Samsung Research Institute"
     date="June 2024 – Present"
     title="Summer Intern"
     location="Bangalore, India" >}}
