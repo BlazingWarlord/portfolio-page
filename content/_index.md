@@ -2,7 +2,7 @@
 title = "Anirudh Ramesh"
 description = """Computer Enthusiast | Student at BITS Pilani, Hyderabad Campus | All Things Cricket"""
 date = "2023-07-15"
-toc = false
+toc = true
 +++
 
 ## Hello There
