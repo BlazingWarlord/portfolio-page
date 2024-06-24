@@ -9,13 +9,6 @@ toc = false
 
 [Linkedin](https://www.linkedin.com/in/anirudhramesh03/)
 
-Support
--------
-
-Kindly support this theme development by donating at [Buy me a
-coffee][md2_bmc_link].
-
-[![Mani Kumar Buy Me a Coffee QR code][md2_bmc_qr_img]][md2_bmc_link]
 
 [1]: https://github.com/manid2/hugo-xterm
 
