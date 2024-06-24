@@ -1,9 +1,3 @@
-+++
-title = 'Contact Me'
-date = 2024-06-24T11:25:53+05:30
-draft = false
-+++
-
 # Contact Me
 Feel free to reach out. 
 
