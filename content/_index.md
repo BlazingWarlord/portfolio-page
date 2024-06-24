@@ -2,20 +2,13 @@
 title = "Anirudh Ramesh"
 description = """Computer Enthusiast | Student at BITS Pilani, Hyderabad Campus | All Things Cricket"""
 date = "2023-07-15"
-toc = false
+toc = true
 +++
 
 ## Hello There
 
 [Linkedin](https://www.linkedin.com/in/anirudhramesh03/)
 
-Support
--------
-
-Kindly support this theme development by donating at [Buy me a
-coffee][md2_bmc_link].
-
-[![Mani Kumar Buy Me a Coffee QR code][md2_bmc_qr_img]][md2_bmc_link]
 
 [1]: https://github.com/manid2/hugo-xterm
 
@@ -30,3 +23,4 @@ coffee][md2_bmc_link].
 
 [md2_bmc_link]: https://www.buymeacoffee.com/manid2
 [md2_bmc_qr_img]: https://manid2.gitlab.io/images/md2_bmc_qr.png
+
