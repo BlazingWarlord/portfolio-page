@@ -31,7 +31,3 @@ coffee][md2_bmc_link].
 [md2_bmc_link]: https://www.buymeacoffee.com/manid2
 [md2_bmc_qr_img]: https://manid2.gitlab.io/images/md2_bmc_qr.png
 
-Contact Me
--------
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScOAtbcqhFjnsCn1Uqm7niv3YWOEl1ZzPyuTtnG1i8BHfUUhg/viewform?embedded=true" width="640" height="718" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
