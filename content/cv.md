@@ -15,6 +15,16 @@ Experience
 ----------
 
 {{< cv/experience
+    name="TELUS Digital"
+    date="July 2024 – Present"
+    title="Software Development Intern"
+    location="Bangalore, India" >}}
+
+* Working as a SDE Intern on developing and fixing a Dash-Board for a major client. Also worked on a major full-stack internal-usage User Management Tool.
+
+Technologies: Retool, Javascript, APIs, Postman
+
+{{< cv/experience
     name="Samsung Research Institute"
     date="June 2024 – July 2024"
     title="Summer Intern"
