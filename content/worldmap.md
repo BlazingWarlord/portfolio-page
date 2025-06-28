@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Travel Map
+---
+
 # My Travel Map 🌍
 
 This is an interactive map of countries I've been to:
